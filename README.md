@@ -24,8 +24,10 @@ The result examples are shown below:
  ![pic](https://github.com/AdamAlive/MarkdownRef/blob/master/246.jpg?raw=true)
  
  ```
-As farbhaol wheal has been given to him; and in the same way the priest's poor arm is, so that the words of the prophets have put in triet among him.
-1Sa 2:3 The same words have given to him, saying that he has been position in his fear of the Lord; and the priest went out to her.
+As farbhaol wheal has been given to him; and in the same way the priest's poor arm is, 
+so that the words of the prophets have put in triet among him.
+1Sa 2:3 The same words have given to him, saying that he has been position in his fear of the Lord; 
+and the priest went out to her.
 Luk 2:37 And at these words, Jesus had given the same.
 Rev 1:2 And he went in to her through a tree, so that the ways made a request to another, and saying,
 Mat 24:2 What is tourne?
@@ -41,7 +43,12 @@ Mat 24:2 What is tourne?
  ![pic](https://github.com/AdamAlive/MarkdownRef/blob/master/237.jpg?raw=true)
  
  ```
-斬之。遂命解孟達至此觀看。只見承頓首級，大驚曰：“將軍欲降我獻劉備，我早來見我等報公矣。”表曰：“汝有心腹之言，何不早降？”操曰：“吾已死，汝當先生。”即便傳令差人往長安李傕等赴許都。曹真知兵，急將馬來，奉報不濟。曹操引兵追來，先被殺條路走，裏遇袁術。殺衆軍奔回，中得三路，驅兵齊進。
+斬之。遂命解孟達至此觀看。
+只見承頓首級，大驚曰：“將軍欲降我獻劉備，我早來見我等報公矣。”
+表曰：“汝有心腹之言，何不早降？”
+操曰：“吾已死，汝當先生。”
+即便傳令差人往長安李傕等赴許都。曹真知兵，急將馬來，奉報不濟。
+曹操引兵追來，先被殺條路走，裏遇袁術。殺衆軍奔回，中得三路，驅兵齊進。
  ```
  
 (Trained from _Collected works of Lu Xun_(《鲁迅文集》))
